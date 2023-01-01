@@ -3134,6 +3134,7 @@ coverage = [
 ]
 cryptography = [
     {file = "cryptography-36.0.1-cp38-cp38-linux_x86_64.whl", hash = "md5:50c7a343715493fc101598a45af24942"},
+    {file = "cryptography-36.0.1-cp38-cp38-linux_x86_64.whl", hash = "sha256:fb250420df0c5efb3bed6f692cda7526a468be88ea29ac070937a022c772465f"},
 ]
 cssselect2 = [
     {file = "cssselect2-0.4.1-py3-none-any.whl", hash = "sha256:2f4a9f20965367bae459e3bb42561f7927e0cfe5b7ea1692757cf67ef5d7dace"},
